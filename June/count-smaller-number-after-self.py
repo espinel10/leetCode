@@ -1,3 +1,6 @@
+##Documentation http://www.grantjenks.com/docs/sortedcontainers/sortedlist.html#sortedcontainers.SortedList.bisect_left
+##problem https://leetcode.com/problems/count-of-smaller-numbers-after-self/solution/
+
 from sortedcontainers import SortedList
 class Solution:
     def countSmaller(self, nums: List[int]) -> List[int]:
