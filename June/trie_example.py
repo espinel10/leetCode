@@ -1,3 +1,5 @@
+##URL  https://www.youtube.com/watch?v=uSFzHCZ4E-8&t=480s
+
 class BIT:
 	def __init__(self,n):
 		self.sums=[0]*(n+1)
